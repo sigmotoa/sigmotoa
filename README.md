@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+This is Sergio Iván GitHub Profile.
+
+
+
+
+- 🔭 I’m currently working on **A lot of Android**
+
+- 🌱 I’m currently learning **Ktor**
+
+- 🤝 I’m looking for help with **Kotlin used in Front/Back**
+
+- 📫 How to reach me **contact@sigmotoa.com**
+
+- 📄 Know about my experiences [sigmotoa.com](https://www.sigmotoa.com)
+
+
+
+
+
 <!--
 **sigmotoa/sigmotoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +41,13 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sigmotoa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sigmotoa" /></p>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="left">Talk with me:</h3>
 <p align="left">
@@ -32,3 +57,7 @@ Here are some ideas to get you started:
 <a href="https://www.twitch.tv/sigmotoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="sigmotoa" height="30" width="40" /></a>
   <a href="https://discord.gg/wq9yfnqMyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sigmotoa" height="30" width="40" /></a>
 </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sigmotoa" alt="sigmotoa" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sigmotoa&show_icons=true&locale=en" alt="sigmotoa" /></p>
