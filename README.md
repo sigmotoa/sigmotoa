@@ -5,7 +5,7 @@ This is Sergio Iván GitHub Profile.
 
 
 
-- 🔭 I’m currently working on **A lot of Android**
+- 🔭 I’m currently working on **A lot of Android and Kotlin**
 
 - 🌱 I’m currently learning **Ktor**
 
