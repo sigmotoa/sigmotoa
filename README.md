@@ -59,5 +59,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sigmotoa" alt="sigmotoa" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sigmotoa&show_icons=true&locale=en" alt="sigmotoa" /></p>
