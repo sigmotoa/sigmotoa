@@ -4,6 +4,7 @@ This is Sergio Iván GitHub Profile.
 
 ![Profile views](https://gpvc.arturio.dev/sigmotoa)
 
+[https://badgen.net/badge/icon/:status/:color?icon=discord](https://badgen.net/badge/discrod/sigmotoa/purple?icon=discord)
 
 
 - 🔭 I’m currently working on **A lot of Android and Kotlin**
