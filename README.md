@@ -2,6 +2,7 @@
 
 This is Sergio Iván GitHub Profile.
 
+![Profile views](https://gpvc.arturio.dev/sigmotoa)
 
 
 
